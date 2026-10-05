@@ -1,0 +1,16 @@
+{
+  "id": "CoIBridge",
+  "version": "0.9.0",
+  "display_name": "CoI Bridge",
+  "description_short": "Standalone local named-pipe interface for game queries and explicit controls. No snapshot exports.",
+  "authors": [
+    "njesse"
+  ],
+  "primary_dlls": [
+    "CoIBridge.dll"
+  ],
+  "min_game_version": "0.8.7d",
+  "non_locking_dll_load": true,
+  "can_add_to_saved_game": true,
+  "can_remove_from_saved_game": true
+}
