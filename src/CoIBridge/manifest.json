@@ -1,7 +1,7 @@
 {
-  "id": "CoIBridge",
+  "id": "Bridge",
   "version": "0.9.0",
-  "display_name": "CoI Bridge",
+  "display_name": "Bridge",
   "description_short": "Standalone local named-pipe interface for game queries and explicit controls. No snapshot exports.",
   "authors": [
     "njesse"
